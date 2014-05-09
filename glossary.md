@@ -5,15 +5,16 @@ layout: default
 # 用語例
 
 ## strategy.md:用語例01
-- 経営理念（企業理念）
+- [経営理念（企業理念）](http://kotobank.jp/word/%E7%B5%8C%E5%96%B6%E7%90%86%E5%BF%B5)
 - 株主総会
 - 決算
 - 社会的責任(CSR：Corporate Social Responsibility)
 - ディスクロージャ
 - 監査
 - グリーン IT 
-- OJT
-- Off-JT
+- OJT Off-JT
+  - OJT(On the Job Training)
+  - Off-JT(Off the Job Training)
 - CDP（Career Development Program）
 - コーポレートブランド
 - ステークホルダ
@@ -21,10 +22,7 @@ layout: default
 - メンタルヘルス
 - 経営目標
 - 財務・資産・人事・情報管理
-- PDCA（plan：計画
-- do：実行
-- check：評価
-- act：改善）
+- PDCA（plan：計画 do：実行 check：評価 act：改善）
 - BCP（Business Continuity Plan：事業継続計画）
 - BCM（Business Continuity Management：事業継続管理）
 - MBO（Management by Objectives：目標による管理） 

@@ -12,8 +12,9 @@ layout: default
 - ディスクロージャ
 - 監査
 - グリーン IT 
-- OJT
-- Off-JT
+- OJT Off-JT
+  - OJT(On the Job Training)
+  - Off-JT(Off the Job Training)
 - CDP（Career Development Program）
 - コーポレートブランド
 - ステークホルダ
@@ -21,10 +22,7 @@ layout: default
 - メンタルヘルス
 - 経営目標
 - 財務・資産・人事・情報管理
-- PDCA（plan：計画
-- do：実行
-- check：評価
-- act：改善）
+- PDCA（plan：計画 do：実行 check：評価 act：改善）
 - BCP（Business Continuity Plan：事業継続計画）
 - BCM（Business Continuity Management：事業継続管理）
 - MBO（Management by Objectives：目標による管理） 
@@ -358,5 +356,5 @@ strategy.md:用語例11
 - システム監査報告書 
 
 ## management.md:用語例32
--モニタリング
--リスクコントロールマトリクス（RCM）
+- モニタリング
+- リスクコントロールマトリクス（RCM）
