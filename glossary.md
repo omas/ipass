@@ -6,43 +6,43 @@ layout: default
 
 ## strategy.md:用語例01
 - [__企業理念__](http://kotobank.jp/word/%E7%B5%8C%E5%96%B6%E7%90%86%E5%BF%B5)
-- __株主総会__ 
+- [__株主総会__](http://kotobank.jp/word/%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A?dic=daijisen&oid=03532700)
 - 決算
-- __社会的責任(CSR：Corporate Social Responsibility)__
-    - ディスクロージャ
+- [__社会的責任(CSR：Corporate Social Responsibility)__](http://kotobank.jp/word/CSR?dic=daijisen&oid=20234000)
+    - [ディスクロージャ](http://kotobank.jp/word/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC?dic=daijisen&oid=12594000)
     - 監査
-    - グリーン IT 
+    - [グリーン IT](http://kotobank.jp/word/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3IT?dic=daijisen&oid=22803400) 
 - OJT Off-JT
-    - OJT(On the Job Training)
-    - Off-JT(Off the Job Training)
-- CDP（Career Development Program）
-- コーポレートブランド
-- ステークホルダ
-- ワークライフバランス
-- メンタルヘルス
+    - [OJT(On the Job Training)](http://kotobank.jp/word/OJT?dic=daijisen&oid=02186600)
+    - [Off-JT(Off the Job Training)](http://kotobank.jp/word/OffJT?dic=ascii)
+- [CDP（Career Development Program）](http://kotobank.jp/word/CDP?dic=daijisen&oid=20566300)
+- [コーポレートブランド](http://kotobank.jp/word/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89?dic=globis)
+- [ステークホルダ](http://kotobank.jp/word/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC?dic=daijisen&oid=09949450)
+- [ワークライフバランス](http://kotobank.jp/word/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%95%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9?dic=daijisen&oid=21784500)
+- [メンタルヘルス](http://kotobank.jp/word/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9?dic=chiezo)
 - 経営目標
 - 財務・資産・人事・情報管理
-    - __PDCA（plan：計画 do：実行 check：評価 act：改善）__
-    - BCP（Business Continuity Plan：事業継続計画）
-    - BCM（Business Continuity Management：事業継続管理）
-    - MBO（Management by Objectives：目標による管理）
+    - [__PDCA（plan：計画 do：実行 check：評価 act：改善）__](http://kotobank.jp/word/PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB?dic=daijisen&oid=23652500)
+    - [BCP（Business Continuity Plan：事業継続計画）](http://kotobank.jp/word/%E4%BA%8B%E6%A5%AD%E7%B6%99%E7%B6%9A%E8%A8%88%E7%94%BB?dic=daijisen)
+    - [BCM（Business Continuity Management：事業継続管理）](http://kotobank.jp/word/%E4%BA%8B%E6%A5%AD%E7%B6%99%E7%B6%9A%E7%AE%A1%E7%90%86?dic=daijisen)
+    - [MBO（Management by Objectives：目標による管理）](http://kotobank.jp/word/%E7%9B%AE%E6%A8%99%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6)
 - __経営組織__ 
     - 階層型組織
     - 事業部制
     - 機能別組織
     - 職能別組織
-    - マトリックス組織
-    - プロジェクト組織
-- カンパニ制
-- 持株会社
+    - [マトリックス組織](http://kotobank.jp/word/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E7%B5%84%E7%B9%94?dic=ascii)
+    - [プロジェクト組織](http://kotobank.jp/word/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%88%B6%E7%B5%84%E7%B9%94?dic=ascii)
+- [カンパニ制(カンパニー制度)](http://kotobank.jp/word/%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC%E5%88%B6%E5%BA%A6?dic=mypedia)
+- [持株会社](http://kotobank.jp/word/%E6%8C%81%E6%A0%AA%E4%BC%9A%E7%A4%BE?dic=daijisen&oid=18256600)
 - __組織の責任者__
-    - 最高経営責任者（CEO：Chief ExecutiveOfficer)
-    - 最高情報責任者(CIO：Chief Information Officer) 
+    - [最高経営責任者(CEO：Chief ExecutiveOfficer)](http://kotobank.jp/word/CIO?dic=daijisen&oid=20359700)
+    - [最高情報責任者(CIO：Chief Information Officer)](http://kotobank.jp/word/CEO?dic=daijisen&oid=20220500) 
 
 ## strategy.md:用語例02
 - __パレート図__
     - ABC 分析
-- PERT（アローダイアグラム）
+- __PERT図（アローダイアグラム）__
     - クリティカルパス分析
 - __散布図__
 - レーダチャート
@@ -56,7 +56,7 @@ layout: default
     - 与信管理
 - 発注方式
 - __ブレーンストーミング__
-- デシジョンツリー
+- __デシジョンツリー__
 - 親和図法
 
 ## strategy.md:用語例03
