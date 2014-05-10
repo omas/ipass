@@ -40,24 +40,24 @@ layout: default
     - [最高情報責任者(CIO：Chief Information Officer)](http://kotobank.jp/word/CEO?dic=daijisen&oid=20220500) 
 
 ## strategy.md:用語例02
-- __パレート図__
+- [__パレート図__](https://www.google.co.jp/search?q=%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E5%9B%B3&oq=%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E5%9B%B3&aqs=chrome..69i57j0l5.3082j0j7&client=ubuntu-browser&sourceid=chrome&es_sm=93&ie=UTF-8)
     - ABC 分析
-- __PERT図（アローダイアグラム）__
+- [__PERT図（アローダイアグラム）__](https://www.google.co.jp/search?q=%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E5%9B%B3&oq=%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E5%9B%B3&aqs=chrome..69i57j0l5.3082j0j7&client=ubuntu-browser&sourceid=chrome&es_sm=93&ie=UTF-8#q=PERT%E5%9B%B3&safe=off)
     - クリティカルパス分析
-- __散布図__
-- レーダチャート
-- 管理図
-- ヒストグラム
+- [__散布図__](https://www.google.co.jp/search?q=%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E5%9B%B3&oq=%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E5%9B%B3&aqs=chrome..69i57j0l5.3082j0j7&client=ubuntu-browser&sourceid=chrome&es_sm=93&ie=UTF-8#q=%E6%95%A3%E5%B8%83%E5%9B%B3&safe=off)
+- [レーダチャート](https://www.google.co.jp/search?q=%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E5%9B%B3&oq=%E3%83%91%E3%83%AC%E3%83%BC%E3%83%88%E5%9B%B3&aqs=chrome..69i57j0l5.3082j0j7&client=ubuntu-browser&sourceid=chrome&es_sm=93&ie=UTF-8#q=%E3%83%AC%E3%83%BC%E3%83%80%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88&safe=off)
+- [管理図](https://www.google.co.jp/search?q=%E7%AE%A1%E7%90%86%E5%9B%B3&oq=%E7%AE%A1%E7%90%86%E5%9B%B3&aqs=chrome..69i57j0l5.342j0j9&client=ubuntu-browser&sourceid=chrome&es_sm=93&ie=UTF-8)
+- [ヒストグラム](https://www.google.co.jp/search?q=%E3%83%92%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A0&oq=%E3%83%92%E3%82%B9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A0&aqs=chrome..69i57j0l5.337j0j9&client=ubuntu-browser&sourceid=chrome&es_sm=93&ie=UTF-8)
 - __回帰分析__
-- 特性要因図（フィッシュボーンチャート）
+- [特性要因図（フィッシュボーンチャート）](https://www.google.co.jp/search?q=%E7%89%B9%E6%80%A7%E8%A6%81%E5%9B%A0%E5%9B%B3&oq=%E7%89%B9%E6%80%A7%E8%A6%81%E5%9B%A0%E5%9B%B3&aqs=chrome..69i57j0l5.235j0j9&client=ubuntu-browser&sourceid=chrome&es_sm=93&ie=UTF-8)
 - シミュレーション
 - 管理方式
     - 在庫管理
     - 与信管理
 - 発注方式
-- __ブレーンストーミング__
-- __デシジョンツリー__
-- 親和図法
+- [__ブレーンストーミング__](http://kotobank.jp/word/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0)
+- [__デシジョンツリー__](http://kotobank.jp/word/%E3%83%87%E3%82%B7%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%84%E3%83%AA%E3%83%BC?dic=ascii)
+- [親和図法](http://kotobank.jp/word/%E8%A6%AA%E5%92%8C%E5%9B%B3%E6%B3%95?dic=ascii)
 
 ## strategy.md:用語例03
 - 利益
@@ -98,7 +98,7 @@ layout: default
 ## strategy.md:用語例06
 - フレックスタイム制
 - 裁量労働制 
-- （準）委任契約
+- [（準）委任契約](http://itpro.nikkeibp.co.jp/article/COLUMN/20130514/476849/)
 - 雇用契約 
 - 特商法（特定商取引に関する法律）
 
