@@ -5,16 +5,16 @@ layout: default
 # 用語例
 
 ## strategy.md:用語例01
-- [経営理念（企業理念）](http://kotobank.jp/word/%E7%B5%8C%E5%96%B6%E7%90%86%E5%BF%B5)
-- 株主総会
+- [__企業理念__](http://kotobank.jp/word/%E7%B5%8C%E5%96%B6%E7%90%86%E5%BF%B5)
+- __株主総会__ 
 - 決算
-- 社会的責任(CSR：Corporate Social Responsibility)
-- ディスクロージャ
-- 監査
-- グリーン IT 
+- __社会的責任(CSR：Corporate Social Responsibility)__
+    - ディスクロージャ
+    - 監査
+    - グリーン IT 
 - OJT Off-JT
-  - OJT(On the Job Training)
-  - Off-JT(Off the Job Training)
+    - OJT(On the Job Training)
+    - Off-JT(Off the Job Training)
 - CDP（Career Development Program）
 - コーポレートブランド
 - ステークホルダ
@@ -22,54 +22,61 @@ layout: default
 - メンタルヘルス
 - 経営目標
 - 財務・資産・人事・情報管理
-- PDCA（plan：計画 do：実行 check：評価 act：改善）
-- BCP（Business Continuity Plan：事業継続計画）
-- BCM（Business Continuity Management：事業継続管理）
-- MBO（Management by Objectives：目標による管理） 
-- 階層型組織
-- 事業部制
-- 機能別組織
-- 職能別組織
-- マトリックス組織
-- プロジェクト組織
+    - __PDCA（plan：計画 do：実行 check：評価 act：改善）__
+    - BCP（Business Continuity Plan：事業継続計画）
+    - BCM（Business Continuity Management：事業継続管理）
+    - MBO（Management by Objectives：目標による管理）
+- __経営組織__ 
+    - 階層型組織
+    - 事業部制
+    - 機能別組織
+    - 職能別組織
+    - マトリックス組織
+    - プロジェクト組織
 - カンパニ制
 - 持株会社
-- 最高経営責任者（CEO：Chief ExecutiveOfficer)
-- 最高情報責任者(CIO：Chief Information Officer) 
+- __組織の責任者__
+    - 最高経営責任者（CEO：Chief ExecutiveOfficer)
+    - 最高情報責任者(CIO：Chief Information Officer) 
 
 ## strategy.md:用語例02
-- パレート図
-- ABC 分析
+- __パレート図__
+    - ABC 分析
 - PERT（アローダイアグラム）
-- クリティカルパス分析
-- 散布図
+    - クリティカルパス分析
+- __散布図__
 - レーダチャート
 - 管理図
 - ヒストグラム
-- 回帰分析,特性要因図（フィッシュボーンチャート）
+- __回帰分析__
+- 特性要因図（フィッシュボーンチャート）
 - シミュレーション
-- 在庫管理
-- 与信管理
+- 管理方式
+    - 在庫管理
+    - 与信管理
 - 発注方式
-- ブレーンストーミング
+- __ブレーンストーミング__
 - デシジョンツリー
 - 親和図法
 
 ## strategy.md:用語例03
 - 利益
-- 粗利益
-- 営業利益
-- 損益分岐点
-- 原価
-- 変動費
-- 固定費
-- 販売量
-- 変動費率
-- 貸借対照表
-- キャッシュフロー計算書
-- 資産（純資産 流動資産 固定資産 繰延資産 有形資産 無形資産）
-- 負債（流動負債 固定負債）
-- 流動比率,収益性
+    - 粗利益
+    - 営業利益
+- __損益分岐点__
+    - 原価
+    - 変動費
+    - 固定費
+    - 販売量
+    - 変動費率
+- 財務諸表
+    - __貸借対照表__
+        - 資産（純資産 流動資産 固定資産 繰延資産 有形資産 無形資産）
+        - 負債（流動負債 固定負債）
+    - 損益計算書
+    - キャッシュフロー計算書
+- 流動比率
+- 固定比率
 - 投資利益率
 
 ## strategy.md:用語例04
@@ -104,30 +111,31 @@ layout: default
 
 ## strategy.md:用語例08
 - デファクトスタンダード
-- バーコード
-- JAN コード
-- QR コード
-- ISO（International Organization for Standardization：国際標準化機構）
-- IEC（International Electrotechnical Commission：国際電気標準会議）
-- IEEE(The Institute of Electrical and Electronics Engineers, Inc.)
-- W3C（World Wide Web Consortium）
-- JIS（Japanese Industrial Standards：日本工業規格）
-- ISO9000(品質マネジメントシステム)
-- ISO14000(環境マネジメントシステム)
-- ISO/IEC27000(情報セキュリティマネジメントシステム) 
+- __バーコード__
+    - JAN コード
+    - QR コード
+- 標準化団体
+    - ISO（International Organization for Standardization：国際標準化機構）
+        - ISO9000(品質マネジメントシステム)
+        - ISO14000(環境マネジメントシステム)
+        - ISO/IEC27000(情報セキュリティマネジメントシステム) 
+    - IEC（International Electrotechnical Commission：国際電気標準会議）
+    - IEEE(The Institute of Electrical and Electronics Engineers, Inc.)
+    - W3C（World Wide Web Consortium）
+    - JIS（Japanese Industrial Standards：日本工業規格）
 
 ## strategy.md:用語例09
-- SWOT（Strengths：強み Weaknesses：弱み Opportunities：機会 Threats：脅威）分析
-- PPM（Product Portfolio Management）
-- 外部環境
-- 内部環境
+- __SWOT__（Strengths：強み Weaknesses：弱み Opportunities：機会 Threats：脅威）分析
+    - 外部環境
+    - 内部環境
+- __PPM__（Product Portfolio Management）
 - 3C分析 
 - 競争優位
 - 顧客満足度
-- コアコンピタンス
-- アライアンス
+- __コアコンピタンス__
+- __アライアンス__
 - アウトソーシング
-- M&A（Mergers and Acquisitions）
+- __M&A（Mergers and Acquisitions）__
 - OEM（Original Equipment Manufacturer：相手先ブランド製造）
 - ファブレス
 - フランチャイズチェーン
@@ -136,7 +144,7 @@ layout: default
 - TOB（Take Over Bid：公開買付け）
 - 規模の経済
 - 垂直統合
-- ニッチ戦略
+- __ニッチ戦略__
 - ベンチマーキング
 - ロジスティクス 
 
@@ -145,17 +153,18 @@ layout: default
 - 販売・製品・仕入計画
 - 販売促進
 - 顧客満足
-- 4P・4C
-- RFM（Recency：最終購買日 Frequency：購買頻度 Monetary：累計購買金額）分析
-- アンゾフの成長マトリクス
+- __4P・4C__
+- __RFM（Recency：最終購買日 Frequency：購買頻度 Monetary：累計購買金額）分析__
+- __アンゾフの成長マトリクス__
 - オピニオンリーダ
-- セグメントマーケティング
+- __セグメントマーケティング__
 - ダイレクトマーケティング
 - プッシュ戦略
 - ブランド戦略
 - プロダクトライフサイクル
-- ポジショニング 
-strategy.md:用語例11
+- ポジショニング
+ 
+## strategy.md:用語例11
 - BSC（Balanced Score Card：バランススコアカード）
 - CSF（Critical Success Factors：重要成功要因）
 - KGI(Key Goal Indicator：重要目標達成指標)
@@ -163,7 +172,7 @@ strategy.md:用語例11
 - バリューエンジニアリング 
 
 ## strategy.md:用語例12
-- CRM（Customer Relationship Management：顧客関係管理）
+- __CRM（Customer Relationship Management：顧客関係管理）__
 - バリューチェーンマネジメント
 - SCM（Supply Chain Management：供給連鎖管理）
 - TQC（Total Quality Control：全社的品質管理）
@@ -184,14 +193,14 @@ strategy.md:用語例11
 ## strategy.md:用語例14
 - 流通情報システム
 - 金融情報システム
-- POS（Point of Sales：販売時点情報管理）システム
-- GPS（Global Positioning System：世界測位システム）応用システ ム 
+- __POS（Point of Sales：販売時点情報管理）システム__
+- __GPS（Global Positioning System：世界測位システム）応用システム__ 
 - GIS（Geographic Information System：地理情報システム）
 - ETC（Electronic Toll Collection：自動料金収受）システム
 - ICカード
-- RFID(ICタグ)
+- __RFID(ICタグ)__
 - 電子マネー
-- 営業支援システム(SFA：Sales Force Automation)
+- __営業支援システム(SFA：Sales Force Automation)__
 - トレーサビリティ
 - スマートグリッド 
 - 業務別ソフトウェアパッケージ(会計 営業支援 販売管理ソフトウェア)
@@ -206,24 +215,25 @@ strategy.md:用語例11
 - シミュレーション
 - センシング技術
 - 生産方式
-- JIT（Just In Time：ジャストインタイム）
+    - JIT（Just In Time：ジャストインタイム）
 - FMS（Flexible Manufacturing System：フレキシブル生産システム）
-- MRP（Material Requirements Planning：資材所要量計画） 
+- __MRP（Material Requirements Planning：資材所要量計画）__
 
 ## strategy.md:用語例16
 - ロングテール
 - 無店舗販売 
 - EC（Electronic Commerce：電子商取引）
-- BtoB（Business to Business：企業間取引）
-- BtoC（Business to Consumer：企業対個人取引）
-- CtoC（Consumer to Consumer：個人対個人取引）
+    - BtoB（Business to Business：企業間取引）
+    - BtoC（Business to Consumer：企業対個人取引）
+    - CtoC（Consumer to Consumer：個人対個人取引）
 - EDI（Electronic Data Interchange：電子データ交換） 
 - 電子マーケットプレース
 - オンラインモール
-- 電子オークション
-- インターネット広告
-- インターネットバンキング
-- インターネットトレーディング
+- インターネット
+    - 電子オークション
+    - インターネット広告
+    - インターネットバンキング
+    - インターネットトレーディング
 - SEO（Search Engine Optimization：検索エンジン最適化）
 - アフィリエイト
 - エスクローサービス
