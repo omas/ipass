@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 目次
 ---
 
 - [概要](./summary.html)

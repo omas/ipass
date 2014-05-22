@@ -1,5 +1,6 @@
 ---
 layout: default
+title:management
 ---
 #◆マネジメント系◆ 
 

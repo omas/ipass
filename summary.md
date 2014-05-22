@@ -1,5 +1,6 @@
 ---
 layout: default
+title:first
 ---
 ITパスポート合格のために
 ========================

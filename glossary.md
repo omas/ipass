@@ -1,5 +1,6 @@
 ---
 layout: default
+title: strategy
 ---
 
 # 用語例
